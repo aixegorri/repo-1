@@ -1,0 +1,25 @@
+From 1cfd372c6b3fe8df47cfafecc375554a96626b56 Mon Sep 17 00:00:00 2001
+From: Karlos Olivares <aixegorri@gmail.com>
+Date: Sun, 12 Nov 2017 20:12:28 +0100
+Subject: [PATCH] Lorem
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index 2b4a901..e7e9146 100644
+--- a/index.html
++++ b/index.html
+@@ -6,7 +6,7 @@
+ </head>
+ <body>
+ 	<h3>ToDo</h3>
+-	<p>Descripción...</p>
++	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur sapiente nisi reiciendis necessitatibus veniam architecto vero animi, a! Quisquam libero delectus obcaecati velit nesciunt eligendi rem beatae iusto, natus atque!</p>
+ 	
+ 	<ul>
+ 		<li>sourceTree con HARVEST</li>
+-- 
+2.10.1
+
